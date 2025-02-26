@@ -10,11 +10,11 @@ This introductory course is aimed at providing a theoretical foundation in Stati
 #### Texts and Readings ❤️
 Here are some texts that will be used in the course:
 
-* John A Rice: Mathematical Statistics and Data Analysis, Cengage, 3rd edition
-* Robert V Hogg, Joseph W McKean, and Allen T Craig: Introduction to Mathematical Statistics, 8th edition, Pearson.
-* George Casella and Roger L Berger: Statistical Inference, Second Edition, Cengage
-* Siva Athreya, Deepayan Sarkar, and Steve Tanner, Probability and Statistics with Examples using R, November 2024, [Download here!](https://psweur.github.io/)
-* R.A. Johnson, G.K. Bhattacharya, Statistics: Principles and Methods, 8th edition, Wiley.
+* John A Rice: **Mathematical Statistics and Data Analysis**, Cengage, 3rd edition
+* Robert V Hogg, Joseph W McKean, and Allen T Craig: **Introduction to Mathematical Statistics**, 8th edition, Pearson.
+* George Casella and Roger L Berger: **Statistical Inference**, Second Edition, Cengage
+* Siva Athreya, Deepayan Sarkar, and Steve Tanner, **Probability and Statistics with Examples using R**, November 2024, [Download here!](https://psweur.github.io/)
+* R.A. Johnson, G.K. Bhattacharya, **Statistics: Principles and Methods**, 8th edition, Wiley.
 
 
 
