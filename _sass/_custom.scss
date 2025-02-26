@@ -33,7 +33,7 @@ body {
     url('../#{$jumbotron-mask}') repeat, 
     url('../#{$jumbotron-image}') center/$jumbotron-image-size $jumbotron-color;
 	color: $white;
-  text-shadow: 5px 5px 10px $gray-darker;
+  text-shadow: 15px 15px 20px $gray-darker;
 
 	a {
 		color: #fcfcfc;
@@ -213,7 +213,7 @@ section {
     content: "\f04b";
   }
 
-  .sidebar li a:after {
+  .sidebar li a:after {white
     content: "";
   }
 
