@@ -22,9 +22,18 @@ Here are some texts that will be used in the course:
 
 #### Slide decks for lectures ❤️❤️
 
+* [Slide deck for lecture 2](/pdf/slides/statslec2.pdf)
+* [Slide deck for lecture 3](/pdf/slides/statslec3.pdf)
+* [Slide deck for lecture 4](/pdf/slides/statslec4.pdf)
+* [Slide deck for lecture 5](/pdf/slides/statslec5.pdf)
+* [Slide deck for lecture 6](/pdf/slides/statslec6.pdf)
+* [Slide deck for lecture 7](/pdf/slides/statslec7.pdf)
+
 <br> 
 
 #### Assignments ❤️❤️❤️
+
+* [Assignment 1](/pdf/assgs/Assignment1.pdf)
 
 <br>
 
