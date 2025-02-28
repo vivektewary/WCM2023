@@ -40,4 +40,6 @@ Here are some texts that will be used in the course:
 
 #### R Worksheets ❤️❤️❤️❤️
 
+* [Worksheet 1](/pdf/worksheets/Worksheet1.pdf)
+
 
