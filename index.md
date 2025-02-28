@@ -35,6 +35,7 @@ Here are some texts that will be used in the course:
 #### Assignments ❤️❤️❤️
 
 * [Assignment 1](/pdf/assgs/Assignment1.pdf)
+* [Assignment 2](/pdf/assgs/Assignment2.pdf)
 
 <br>
 
