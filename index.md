@@ -38,6 +38,7 @@ Here are some texts that will be used in the course:
 
 * [Assignment 1](/pdf/assgs/Assignment1.pdf)
 * [Assignment 2](/pdf/assgs/Assignment2.pdf)
+* [Assignment 3](/pdf/assgs/Assignment3.pdf)
 
 <br>
 
