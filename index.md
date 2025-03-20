@@ -33,6 +33,7 @@ Here are some texts that will be used in the course:
 * [Slide deck for lecture 10](/pdf/slides/statslec10.pdf)
 * [Slide deck for lecture 11](/pdf/slides/statslec11.pdf)
 * [Slide deck for lecture 12](/pdf/slides/statslec12.pdf)
+* [Slide deck for lecture 13](/pdf/slides/statslec13.pdf)
 
 <br> 
 
@@ -41,6 +42,7 @@ Here are some texts that will be used in the course:
 * [Assignment 1](/pdf/assgs/Assignment1.pdf)
 * [Assignment 2](/pdf/assgs/Assignment2.pdf)
 * [Assignment 3](/pdf/assgs/Assignment3.pdf)
+* [Assignment 4](/pdf/assgs/Assignment4.pdf)
 
 <br>
 
