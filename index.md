@@ -34,6 +34,8 @@ Here are some texts that will be used in the course:
 * [Slide deck for lecture 11](/pdf/slides/statslec11.pdf)
 * [Slide deck for lecture 12](/pdf/slides/statslec12.pdf)
 * [Slide deck for lecture 13](/pdf/slides/statslec13.pdf)
+* [Slide deck for lecture 14](/pdf/slides/statslec14.pdf)
+* [Slide deck for lecture 15](/pdf/slides/statslec15.pdf)
 
 <br> 
 
